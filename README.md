@@ -1,6 +1,6 @@
 **Hi, I'm Adrian👋**
 
-**I'm a Computer Science & Engineering graduate with a strong interest in software development, Java, and Artificial Intelligence 💻🤖**
+**I'm a Computer Science & Engineering graduate with a strong interest in software development, Java, and Artificial Intelligence💻🤖**
 
 **Java is my primary programming language ☕, and I enjoy developing object-oriented applications, working with databases, designing software architectures, and solving complex programming problems.**
 
